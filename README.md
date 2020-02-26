@@ -13,7 +13,7 @@
 
 ![](Images/model_paper.png)
 
-# Prize
+# Leaderboard
 
   - Our team won the 1st place. <br/>
   ![](Images/challengeresult.png)
