@@ -2,7 +2,7 @@
 
 ![](Images/emteq.png)
 
-[Emteq](https://emteq.net/) organized Human Activty Recognition Challenge 2019. The goal of the challenge was to recognize eight activities of daily life from a devicemounted on the head, which provides data from three-axis IMU: accelerometer,gyroscope and magnetometer.</br>
+[Emteq](https://emteq.net/) organized the Human Activity Recognition Challenge 2019. The goal of the challenge was to recognize eight activities of daily life from a device mounted on the head, which provides data from three-axis IMU: accelerometer,gyroscope and magnetometer.</br>
 
 Organiser's contact info: improve@emteq.net
 
